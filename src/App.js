@@ -7,7 +7,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Digital Card
+      <Info />
+      <About />
+      <Interests />
+      <Footer />
     </div>
   );
 }
