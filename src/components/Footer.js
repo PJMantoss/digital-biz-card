@@ -5,23 +5,23 @@ const Footer = () => {
     <div className='footer'>
       <div className='wrapper'>
         <img 
-          src='./images/' 
-          alt='' 
+          src='./images/Twitter Icon.png' 
+          alt='twitter' 
         />
 
         <img 
-          src='./images/' 
-          alt='' 
+          src='./images/Facebook Icon.png' 
+          alt='facebook' 
         />
 
         <img 
-          src='./images/' 
-          alt='' 
+          src='./images/Instagram Icon.png' 
+          alt='ig' 
         />
 
         <img 
-          src='./images/' 
-          alt='' 
+          src='./images/Github Icon.png' 
+          alt='github' 
         />
       </div>
     </div>
