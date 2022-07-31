@@ -82,6 +82,7 @@ font-family: 'Urbanist', sans-serif; */
 .emailBtn img {
     width: 12px;
     color: #1e1f26;
+    margin-right: 5px;
 }
 
 .linkedInBtn{
@@ -92,4 +93,5 @@ font-family: 'Urbanist', sans-serif; */
 
 .linkedInBtn img {
     width: 13px;
+    margin-right: 5px;
 }
