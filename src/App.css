@@ -56,3 +56,9 @@ font-family: 'Urbanist', sans-serif; */
     text-decoration: none;
     cursor: pointer;
 }
+
+.socialMedia{
+    display: flex;
+    justify-content: center;
+    width: 90%;
+}
