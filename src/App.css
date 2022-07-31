@@ -1,8 +1,15 @@
 .App {
-    width: 317px;
+    width: 550px;
     height: 100vh;
     margin: 65px auto;
-    border-radius: 10px 10px 0 0;
+    background: #23252c;
+}
+
+.wrapper {
+    width: 317px;
+    margin: auto;
+    border-radius: 10px;
+    background: #1a1b21;
 }
 
 /* Info section */
@@ -16,4 +23,5 @@
 
 .info img {
     width: 317px;
+    border-radius: 10px 10px 0 0;
 }
