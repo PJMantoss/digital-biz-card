@@ -20,7 +20,7 @@ const Footer = () => {
         />
 
         <img 
-          src='./images/Github Icon.png' 
+          src='./images/GitHub Icon.png' 
           alt='github' 
         />
       </div>

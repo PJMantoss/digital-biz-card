@@ -144,7 +144,10 @@ font-family: 'Urbanist', sans-serif; */
 
 /* Footer */
 .footer{
+    background: #161619;
+}
+
+.footer > .wrapper{
+    background: transparent;
     display: flex;
-    justify-content: center;
-    align-items: center;
 }
