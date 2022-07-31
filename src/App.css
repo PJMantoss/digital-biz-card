@@ -66,9 +66,15 @@ font-family: 'Urbanist', sans-serif; */
 .socialMedia a {
     display: inline-block;
     text-decoration: none;
+    text-align: center;
     width: 115px;
     padding: 9px 13px;
     border-radius: 6px;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 14px;
+}
+
+.emailBtn{
+    background: white;
+    color: #374151;
 }
