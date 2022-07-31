@@ -3,7 +3,11 @@ import React from 'react'
 const Info = () => {
   return (
     <div className='info'>
-      <img src='./images/profile_pic.jpg' alt='user image' />
+      <img 
+        className='userImg' 
+        src='./images/profile_pic.jpg' 
+        alt='user image' 
+      />
       <di className='userInfo'>
         <h2 className='name'>PJ Mantoss</h2>
         <p className='position'>Frontend Developer</p>
