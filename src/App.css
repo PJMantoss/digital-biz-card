@@ -3,7 +3,6 @@
 font-family: 'Urbanist', sans-serif; */
 .App {
     width: 550px;
-    height: auto;
     margin: 65px auto;
     padding: 45px 0;
     background: #23252c;
@@ -12,6 +11,7 @@ font-family: 'Urbanist', sans-serif; */
 .wrapper {
     width: 317px;
     margin: auto;
+    height: auto;
     border-radius: 10px;
     background: #1a1b21;
 }
@@ -101,7 +101,7 @@ font-family: 'Urbanist', sans-serif; */
 
 .about{
     width: 90%;
-    padding: 10%;
+    padding: 0 10%;
 }
 
 .about h3 {
@@ -121,7 +121,8 @@ font-family: 'Urbanist', sans-serif; */
 
 .interests{
     width: 90%;
-    padding: 10%;
+    padding: 0 10%;
+    margin: 10px 0 15px;
 }
 
 .interests h3 {
