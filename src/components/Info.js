@@ -14,8 +14,12 @@ const Info = () => {
         >https://pjmantoss.github.io/</a>
       </di>
       <div className='socialMedia'>
-        <a href='#' className='emailBtn'>Email</a>
-        <a href='#' className='linkedInBtn'>LinkedIn</a>
+        <a href='#' className='emailBtn'>
+          <img src='./images/email-icon.png' alt='email-icon'/> Email
+          </a>
+        <a href='#' className='linkedInBtn'>
+          <img src='./images/linkedin-icon.png' alt='email-icon'/> LinkedIn
+        </a>
       </div>
     </div>
   )
