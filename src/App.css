@@ -155,3 +155,7 @@ font-family: 'Urbanist', sans-serif; */
     justify-content: center;
     align-items: center;
 }
+
+.footer > .wrapper > img {
+    margin-right: 20px;
+}
