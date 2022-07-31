@@ -6,7 +6,7 @@ const Info = () => {
       <img 
         className='userImg' 
         src='./images/profile_pic.jpg' 
-        alt='user image' 
+        alt='user' 
       />
       <div className='userInfo'>
         <h2 className='name'>PJ Mantoss</h2>
@@ -14,6 +14,7 @@ const Info = () => {
         <a 
           href='https://pjmantoss.github.io/' 
           target='_blank' 
+          rel="noopener"
           className='website'
         >https://pjmantoss.github.io/</a>
       </div>
@@ -24,6 +25,7 @@ const Info = () => {
         <a 
           href='https://www.linkedin.com/in/pj-mantoss-55a372a3/' 
           target='_blank'
+          rel="noopener"
           className='linkedInBtn'
         >
           <img src='./images/linkedin-icon.png' alt='email-icon'/> LinkedIn
