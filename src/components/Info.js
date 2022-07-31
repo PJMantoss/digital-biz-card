@@ -8,7 +8,7 @@ const Info = () => {
         src='./images/profile_pic.jpg' 
         alt='user image' 
       />
-      <di className='userInfo'>
+      <div className='userInfo'>
         <h2 className='name'>PJ Mantoss</h2>
         <p className='position'>Frontend Developer</p>
         <a 
@@ -16,7 +16,7 @@ const Info = () => {
           target='_blank' 
           className='website'
         >https://pjmantoss.github.io/</a>
-      </di>
+      </div>
       <div className='socialMedia'>
         <a href='#' className='emailBtn'>
           <img src='./images/email-icon.png' alt='email-icon'/> Email
