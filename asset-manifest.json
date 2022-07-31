@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/digital-biz-card/static/css/main.a59fbf17.css",
+    "main.js": "/digital-biz-card/static/js/main.cf99916d.js",
+    "index.html": "/digital-biz-card/index.html",
+    "main.a59fbf17.css.map": "/digital-biz-card/static/css/main.a59fbf17.css.map",
+    "main.cf99916d.js.map": "/digital-biz-card/static/js/main.cf99916d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a59fbf17.css",
+    "static/js/main.cf99916d.js"
+  ]
+}
