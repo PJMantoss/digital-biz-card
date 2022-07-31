@@ -1,7 +1,8 @@
 .App {
     width: 550px;
-    height: 100vh;
+    height: auto;
     margin: 65px auto;
+    padding: 45px 0;
     background: #23252c;
 }
 
@@ -22,6 +23,6 @@
 }
 
 .info img {
-    width: 317px;
+    width: 100%;
     border-radius: 10px 10px 0 0;
 }
