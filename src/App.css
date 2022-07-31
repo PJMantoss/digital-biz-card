@@ -78,3 +78,18 @@ font-family: 'Urbanist', sans-serif; */
     background: white;
     color: #374151;
 }
+
+.emailBtn img {
+    width: 12px;
+    color: #1e1f26;
+}
+
+.linkedInBtn{
+    background: #5093e2;
+    color: white;
+    margin-left: 12px;
+}
+
+.linkedInBtn img {
+    width: 13px;
+}
