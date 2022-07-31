@@ -16,18 +16,6 @@ font-family: 'Urbanist', sans-serif; */
     background: #1a1b21;
 }
 
-@media only screen and (max-width: 480px){
-    .App {
-        width: 100%;
-        height: 100vh;
-        margin: 0;
-    }
-
-    .wrapper{
-        width: 90%;
-    }
-}
-
 /* Info section */
 
 .info{
@@ -103,6 +91,27 @@ font-family: 'Urbanist', sans-serif; */
     background: #5093e2;
     color: white;
     margin-left: 12px;
+}
+
+@media only screen and (max-width: 480px){
+    .App {
+        width: 100%;
+        height: 100vh;
+        margin: 0;
+    }
+
+    .wrapper{
+        width: 90%;
+    }
+
+    .socialMedia{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .linkedInBtn {
+        margin: 7px 0 0 0;
+    }
 }
 
 .linkedInBtn img {
