@@ -14,8 +14,8 @@ const Info = () => {
         >https://pjmantoss.github.io/</a>
       </di>
       <div className='socialMedia'>
-        <button className='emailBtn'>Email</button>
-        <button className='linkedInBtn'>LinkedIn</button>
+        <a href='#' className='emailBtn'>Email</a>
+        <a href='#' className='linkedInBtn'>LinkedIn</a>
       </div>
     </div>
   )

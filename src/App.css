@@ -62,3 +62,11 @@ font-family: 'Urbanist', sans-serif; */
     justify-content: center;
     width: 90%;
 }
+
+.socialMedia a {
+    text-decoration: none;
+    width: 115px;
+    padding: 9px 13px;
+    border-radius: 6px;
+    cursor: pointer;
+}
