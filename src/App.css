@@ -25,7 +25,8 @@ font-family: 'Urbanist', sans-serif; */
     width: 100%;
 }
 
-.info img {
+.info > img {
+    display: block;
     width: 100%;
     border-radius: 10px 10px 0 0;
 }
