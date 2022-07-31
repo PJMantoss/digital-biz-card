@@ -102,6 +102,7 @@ font-family: 'Urbanist', sans-serif; */
 .about{
     width: 90%;
     padding: 0 10%;
+    margin-top: 35px;
 }
 
 .about h3 {
@@ -122,7 +123,7 @@ font-family: 'Urbanist', sans-serif; */
 .interests{
     width: 90%;
     padding: 0 10%;
-    margin: 10px 0 15px;
+    margin: 10px 0 35px;
 }
 
 .interests h3 {
